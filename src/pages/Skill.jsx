@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaReact, FaJsSquare, FaCss3Alt, FaHtml5, FaNodeJs, FaGitAlt, FaVuejs, FaDatabase, FaDocker, FaJenkins, FaLinux, FaAws, FaCloud, FaCogs } from "react-icons/fa";
+import { FaReact, FaGitAlt, FaVuejs, FaDatabase, FaDocker, FaJenkins, FaLinux, FaAws, FaCloud, FaCogs } from "react-icons/fa";
 import Tilt from "react-parallax-tilt";
 
   const skills = [
@@ -9,8 +9,8 @@ import Tilt from "react-parallax-tilt";
     { name: "Java & Spring Boot", icon: <FaCogs className="text-blue-600 text-3xl" />, percentage: 75 },
     { name: "Hibernate", icon: <FaCogs className="text-green-600 text-3xl" />, percentage: 90 },
     { name: "MySQL & PostgreSQL", icon: <FaDatabase className="text-yellow-600 text-3xl" />, percentage: 60 },
-    { name: "Docker", icon: <FaDocker className="text-blue-400 text-3xl" />, percentage: 70 },
-    { name: "Jenkins", icon: <FaJenkins className="text-red-400 text-3xl" />, percentage: 70 },
+    { name: "Docker", icon: <FaDocker className="text-blue-400 text-3xl" />, percentage: 40 },
+    { name: "Jenkins", icon: <FaJenkins className="text-red-400 text-3xl" />, percentage: 40 },
     { name: "Linux", icon: <FaLinux className="text-gray-400 text-3xl" />, percentage: 90 },
     { name: "Kubernetes", icon: <FaCloud className="text-blue-500 text-3xl" />, percentage: 40 },
     { name: "AWS", icon: <FaAws className="text-orange-500 text-3xl" />, percentage: 40 },

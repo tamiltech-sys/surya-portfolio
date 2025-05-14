@@ -14,7 +14,7 @@ function Navbar() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.3 }}
         >
-          My Portfolio
+         Surya 
         </motion.h1>
 
         {/* Hamburger Menu Button (for mobile) */}

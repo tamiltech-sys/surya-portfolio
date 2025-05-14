@@ -20,8 +20,8 @@ function About() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 1.5 }}
         >
-          A Full-Stack Developer and DevOps Engineer with {" "}
-          <span className="text-blue-400">1.5 Years</span> of Experience
+          A Full-Stack Developer  with {" "}
+          <span className="text-blue-400">1 Years</span> of Experience
         </motion.p>
       </div>
 
@@ -46,7 +46,7 @@ function About() {
           <h2 className="text-4xl font-bold text-blue-400 mb-2">About Me</h2>
           <p className="text-gray-300 leading-relaxed text-lg">
             I am a <span className="text-blue-400 font-semibold">Full-Stack Java Developer</span> with
-            <span className="text-blue-400"> 2 years</span> of experience specializing in
+            <span className="text-blue-400"> 1 years</span> of experience specializing in
             <span className="text-blue-400">Html, CSS, JavaScript, React-js, Spring Boot And Hibernate</span>. I have
             expertise in building <span className="text-blue-400">scalable applications</span> and designing
             <span className="text-blue-400"> robust frontend interfaces</span>.
@@ -58,11 +58,7 @@ function About() {
             {" "} for over a year, mentoring developers and helping them improve their skills.
           </p>
           
-          <h3 className="text-2xl font-semibold text-blue-400 mt-3">Problem-Solving & Competitive Programming</h3>
-          <p className="text-gray-300 text-lg">
-            I have solved <span className="text-blue-400">300+ LeetCode problems</span> in Java, enhancing my
-            problem-solving skills and algorithmic thinking.
-          </p> 
+        
 
           <h3 className="text-2xl font-semibold text-blue-400 mt-3">DevOps & Cloud Technologies</h3>
           <ul className="text-gray-300 text-lg list-disc list-inside">

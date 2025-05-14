@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { FaTimes } from "react-icons/fa";
 
 const projects = [
-  { title: "MLM with Admin Panel", description: "A multi-level marketing platform with robust admin controls.", img: "/mlm.jpg" },
+  // { title: "MLM with Admin Panel", description: "A multi-level marketing platform with robust admin controls.", img: "/mlm.jpg" },
   { title: "E-Commerce Platform", description: "A feature-rich e-commerce platform with payment integration.", img: "/ecommerce.jpg" },
   { title: "Quasar ERP", description: "An enterprise resource planning system built with Quasar.", img: "/erp.jpg" },
   { title: "Hotel Management System", description: "A complete hotel booking and management solution.", img: "/hotel.jpg" },
